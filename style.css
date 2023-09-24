@@ -56,9 +56,8 @@
     cursor: pointer;
   }
 
-  .profile {
-   
-    width: 600px;
-    height: 350px;
-    border: 0px;
+  .picture {
+  width: 600px;
+  height: 350px;
+  border: 0px;
   }
